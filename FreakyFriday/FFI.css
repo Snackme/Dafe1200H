@@ -1,0 +1,50 @@
+body {
+    background-color: aliceblue;
+   
+}
+
+nav {
+    text-align:  center;
+}
+
+
+h1 {
+    text-align: center;
+    color: blue;
+    border: blueviolet;
+}
+
+#randombilde {
+    font-size: 30px;
+}
+
+#Hjemmeside {
+    font-size: 100px;
+}
+
+#tittel{
+    font-size: 50px;
+}
+
+a {
+    text-align: center;
+}
+a:link {
+color: black;
+}
+
+a:visited {
+color: black;
+}
+
+a:hover {
+color: red;
+}
+
+a:active {
+color: blue;
+}
+
+footer {
+    text-align: center;
+}
